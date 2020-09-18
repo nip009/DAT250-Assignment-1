@@ -1,20 +1,31 @@
 # Experiment Assignment 3 #
 
 Validation of installation package:
+
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass3-pictures/package_validation.png)
 
+
 ## Experiment 1
+
 Insert documents:
+
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass3-pictures/insert.png)
 
+
 Query documents:
+
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass3-pictures/query1.png)
+
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass3-pictures/query2.png)
 
+
 Update documents:
+
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass3-pictures/update.png)
 
+
 Remove documents:
+
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass3-pictures/remove.png)
 
 I also looked at the bulk write operations tutorial.
