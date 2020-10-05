@@ -28,3 +28,6 @@ PUT request
 
 
 Pending issues: Make it possible to do POST and DELETE requests.
+
+Link to code in Experiment 2:
+https://github.com/nip009/DAT250-expass4-todo
