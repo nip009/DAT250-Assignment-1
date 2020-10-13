@@ -11,6 +11,7 @@ https://github.com/nip009/gs-spring-boot
 https://github.com/nip009/gs-rest-service
 
 ### Link to experiment 4 ###
+https://github.com/nip009/gs-accessing-data-jpa
 
 
 
