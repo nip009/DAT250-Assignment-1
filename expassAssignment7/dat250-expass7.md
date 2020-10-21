@@ -1,7 +1,7 @@
 ## Experiment Assignment 7 ##
 
 ### Experiment 1 ###
-Installation done, no link here
+Installation done, no link here.
 
 ### Experiment 2 ###
 https://github.com/nip009/DAT250-ExpAssignments/tree/master/expassAssignment7/Hello%20World
