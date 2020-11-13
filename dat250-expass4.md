@@ -43,4 +43,4 @@ I was unable to run App.java when trying to use Intellij, but it worked when I t
 No pending issues.
 
 Link to code in Experiment 2:
-https://github.com/nip009/dat250-sparkjava-counter/blob/master/counters/counters/src/main/java/no/hvl/dat110/rest/counters/App.java
+https://github.com/nip009/dat250-sparkjava-counter/tree/master/counters/counters/src/main/java/no/hvl/dat110/rest/counters
