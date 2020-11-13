@@ -21,11 +21,6 @@ I was unable to run App.java when trying to use Intellij, but it worked when I t
 
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass4-pictures/exp2_get.PNG)
 
-
-### PUT request ###
-
-![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass4-pictures/exp2_put.PNG)
-
 ### POST request ###
 
 #### When id is not unique ####
@@ -35,6 +30,10 @@ I was unable to run App.java when trying to use Intellij, but it worked when I t
 #### When id is unique ####
 
 ![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass4-pictures/exp2_post_success.PNG)
+
+### PUT request ###
+
+![alt text](https://github.com/nip009/DAT250-ExpAssignments/blob/master/expass4-pictures/exp2_put.PNG)
 
 ### DELETE request ###
 
